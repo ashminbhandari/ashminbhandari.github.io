@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "emailjs-com": "^2.4.1",
     "font-awesome": "^4.7.0",
-    "react": "^16.13.0",
+    "react": "^16.13.1",
     "react-dom": "^16.13.0",
     "react-lazyload": "^2.6.7",
     "react-loading": "^2.0.3",
